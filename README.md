@@ -34,6 +34,22 @@
 👉 [เปิดดูใน Figma](https://www.figma.com/design/dsOon1dN5dF4SriokJSXGg/NAMBUUT-APP-Design?m=auto&t=3IH0oK311WQtjHu1-6)
 
 ---
+
+## 📸 ตัวอย่างหน้าจอ
+
+### 🔑 การเข้าสู่ระบบ
+![Login](screenshots/Login.png)
+
+### 🏠 หน้าหลัก
+![HomePage](screenshots/HomePage.png)
+
+### 👤 โปรไฟล์
+![Profile](screenshots/Profile.png)
+
+### 💬 แชท + การมาร์คแชท
+![Chat](screenshots/Chat.png)
+
+---
 ## 🛠️ Tools
 - Draw.io / Lucidchart (สำหรับ DFD & ERD)
 - Figma
