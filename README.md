@@ -38,16 +38,16 @@
 ## 📸 ตัวอย่างหน้าจอ
 
 ### 🔑 การเข้าสู่ระบบ
-![Login](screenshots/Login.png)
+![Login](screenshots/Nambutt_Login.png)
 
 ### 🏠 หน้าหลัก
-![HomePage](screenshots/HomePage.png)
+![HomePage](screenshots/Nambutt_HomePage.png)
 
 ### 👤 โปรไฟล์
-![Profile](screenshots/Profile.png)
+![Profile](screenshots/Nambutt_Profile.png)
 
 ### 💬 แชท + การมาร์คแชท
-![Chat](screenshots/Chat.png)
+![Chat](screenshots/Nambutt_Chat.png)
 
 ---
 ## 🛠️ Tools
